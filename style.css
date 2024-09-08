@@ -1,0 +1,10 @@
+@import url("https://cdn.jsdelivr.net/gh/jgthms/minireset.css@master/minireset.min.css");
+
+*body {
+  background-color: azure;
+}
+
+#largeimagecontainer img {
+  width: 100%;
+  overflow: hidden;
+}
